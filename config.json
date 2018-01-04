@@ -2,17 +2,16 @@
   "username": "esbb48",
   "name": "ALi Li",
   "projects": [
-    "http://github.com/esbb48/profiles",
-    "http://github.com/esbb48/Kizuna"
+    "http://github.com/esbb48/profiles"
   ],
   "background":[
     "front-end",
-    "JavaScript 3 years"
+    "JavaScript 3 years",
     "Node.js",
     "React.js"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
+    "JavaScript (mobile web and mobile apps)",
     "Remote Jobs",
     "Block Chain"
   ],
