@@ -2,13 +2,13 @@
   "username": "esbb48",
   "name": "ALi Li",
   "projects": [
-    "http://github.com/esbb48/profiles"
+    "https://github.com/esbb48/Kizuna",
+    "https://github.com/esbb48/voicetube-chrome-extension"
   ],
   "background":[
-    "front-end",
     "JavaScript 3 years",
     "Node.js",
-    "React.js"
+    "React & Redux 1 year"
   ],
   "interests":[
     "JavaScript (mobile web and mobile apps)",
